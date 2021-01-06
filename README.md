@@ -2,10 +2,10 @@
 Projetos baseados na linguagem de programação java script
 
 <strong><em>ConvertCase</em></strong><br>
-A simple converter capable of converting the coordinates given in degrees, minutes and seconds to the decimal system
+Type some text and convert it to UPPERCASE, lowercase and Capitalize
 <br><br>
 <strong><em>SpeedChanger</em></strong><br>
-select the color and display the hexadecimal code of the same
+Change the audios clips in your whatsapp web
 <br><br>
-<strong><em>FormValidation</em></strong><br>
-simple responsiveMenu
+<strong><em>formValidation</em></strong><br>
+This is a simple form validation with js
