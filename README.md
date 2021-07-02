@@ -11,4 +11,4 @@ Change the audios clips in your whatsapp web
 This is a simple form validation with js
 <br><br>
 <strong><em>OnlineShop</em></strong><br>
-A responsive small shop, can add new products in js file
+A responsive small store, can add new products in js file
