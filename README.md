@@ -9,3 +9,6 @@ Change the audios clips in your whatsapp web
 <br><br>
 <strong><em>formValidation</em></strong><br>
 This is a simple form validation with js
+<br><br>
+<strong><em>OnlineShop</em></strong><br>
+A small shop, can add new products in js file
