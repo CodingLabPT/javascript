@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik Distressed', cursive;
+}
+
+body {
+    background: linear-gradient(to bottom, rgb(226, 182, 117), #fff);
+    min-height: 100vh;
+    text-align: center;
+}
+
+.pokedex {
+    width: 100%;
+    max-width: 425px;
+}
+
+
+main {
+    display: inline-block;
+    position: relative;
+}
+
+.pokemon {
+    position: absolute;
+    bottom: 50%;
+    left: 35%;
+    height: 15%;
+}
+
+.data {
+    position: absolute;
+    width: 100%;
+    padding: 15px;
+    top: 27%;
+    left: -5%;
+    font-size: clamp(8px, 3vw, 25px);
+}
+
+.form {
+    position: absolute;
+    bottom: 15%;
+    left: 23.5%;
+    width: 28%;
+}
+
+.input {
+    width: 100%;
+    padding: 15px;
+    outline: none;
+    color: #000;
+    background-color: transparent;
+    border: none;
+}
+
+input::placeholder {
+    color: black;
+    font-weight: 400;
+    font-size: clamp(6px, 2vw, 13px);
+}
+
+.controls {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    gap: 7px;
+    top: 70.5%;
+    left: 56.6%;
+    
+}
+
+.prev, .next {
+    padding: 5px;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    color: #161616;
+    font-size: clamp(6px, 2vw, 12px);
+}
